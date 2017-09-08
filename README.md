@@ -1,4 +1,4 @@
-## GA_engine
+## GA_ConvexApproximation
 =========
    
 基于遗传算法的图片拟合工具。（三角形）
